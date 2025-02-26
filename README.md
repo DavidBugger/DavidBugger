@@ -9,7 +9,7 @@ I am a passionate Web developer, ready to transform you great ideas to reality.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [devdavesolutions@gmail.com](mailto:devdavesolutions@gmail.com)
-* 🚀  I'm currently working on [Voting system](http://Ivote.com.ng)
+* 🚀  I'm currently working on [Voting system](https://Ivote.ng)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Artificial intelligence and machine learning projects
 
