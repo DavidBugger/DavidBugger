@@ -9,8 +9,7 @@ I am a passionate Web developer, ready to transform you great ideas to reality.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [devdavesolutions@gmail.com](mailto:devdavesolutions@gmail.com)
-* 🚀  I'm currently working on [Blockchain application system](https://classlyr.vercel.app/)
-* 🧠  I'm learning Aiken
+* 🚀  I'm currently working on [Hausamaster AI ](https://hausamaster-ai.vercel.app/)
 * 🤝  I'm open to collaborating on Artificial intelligence and machine learning projects
 
 ### Skills
