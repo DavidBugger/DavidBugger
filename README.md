@@ -6,7 +6,7 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
 | | |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DavidBugger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-akanang-0789771a4/)
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidBugger&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -73,7 +73,7 @@
 
 ---
 
-### 📌 Featured Repos
+### Featured Repos
 
 <p align="center">
   <a href="https://github.com/DavidBugger/House-listing-Management-System">
