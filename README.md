@@ -1,4 +1,4 @@
-# Hi there 👋 I'm David Akanang Ignatius
+# Hi there! I'm David Akanang Ignatius
 
 ### Fullstack Engineer · Django & FastAPI · React & Next.js · AI Innovator
 
@@ -10,14 +10,14 @@
 
 | | |
 |---|---|
-| 📍 **Location** | Nigeria |
-| 📬 **Email** | [devdavesolutions@gmail.com](mailto:devdavesolutions@gmail.com) |
-| 🚀 **Current project** | [Hausamaster AI](https://hausamaster-ai.vercel.app/) |
-| 🤝 **Open to** | AI & Machine Learning collaborations |
+| **Location** | Nigeria |
+| **Email** | [devdavesolutions@gmail.com](mailto:devdavesolutions@gmail.com) |
+| **Current project** | [Hausamaster AI](https://hausamaster-ai.vercel.app/) |
+| **Open to** | AI & Machine Learning collaborations |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <!-- Backend -->
 **Backend**
