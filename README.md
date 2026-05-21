@@ -10,7 +10,6 @@
 
 | | |
 |---|---|
-| **Location** | Nigeria |
 | **Email** | [devdavesolutions@gmail.com](mailto:devdavesolutions@gmail.com) |
 | **Current project** | [Hausamaster AI](https://hausamaster-ai.vercel.app/) |
 | **Open to** | AI & Machine Learning collaborations |
