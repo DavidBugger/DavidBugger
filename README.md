@@ -11,8 +11,8 @@
 | | |
 |---|---|
 | **Email** | [davidakanang@gmail.com](mailto:davidakanang@gmail.com) |
-| **Current project** | ([https://chatbot-pro-phi.vercel.app](https://chatbot-pro-phi.vercel.app/) |
-| **Open to** | Web | Mobile | AI & Machine Learning collaborations |
+| **Current project** | https://chatbot-pro-phi.vercel.app |
+| **Open to** | Web Mobile  AI & Machine Learning collaborations |
 
 ---
 
