@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Email** | [davidakanang@gmail.com](mailto:davidakanang@gmail.com) |
-| **Current project** | [Hausamaster AI](https://hausamaster-ai.vercel.app/) |
+| **Current project** | [Chatbot Pro AI]([https://hausamaster-ai.vercel.app](https://chatbot-pro-phi.vercel.app/) |
 | **Open to** | AI & Machine Learning collaborations |
 
 ---
